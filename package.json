@@ -1,7 +1,7 @@
 {
   "name": "validity-url",
   "description": "Validity style validator to ensure that a property is a valid URL.",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "dependencies": {
     "validity": "^1.0.0"
   },
