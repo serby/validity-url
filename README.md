@@ -5,7 +5,7 @@ Validity style validator to ensure that a property is a valid URL.
 As part of the modularisation of [validity](https://github.com/serby/validity), this replaces the built-in `validity.url`.
 
 [![build status](https://secure.travis-ci.org/serby/validity-url.svg)](http://travis-ci.org/serby/validity-url)
-[![dependency status](https://david-dm.org/serby/validity-url.svg)](https://david-dm.org/serby/validity-url)
+[![dependency status](https://david-dm.org/serby/validity-url.svg)](https://david-dm.org/serby/validity-url) [![Greenkeeper badge](https://badges.greenkeeper.io/serby/validity-url.svg)](https://greenkeeper.io/)
 
 ## Installation
 
